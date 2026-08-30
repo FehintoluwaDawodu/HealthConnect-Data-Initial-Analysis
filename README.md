@@ -8,6 +8,7 @@ The Week 4 stage focused on understanding the business problem, reviewing the da
 
 The overall objective is to identify factors associated with missed appointments and generate insights that can support improved appointment attendance and clinic operations.
 
+![Initial Data Analysis Document](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/DAWODU%20FEHINTOLUWA%20TRACK%20SPECIFIC%20RESPONSE.docx)![Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%204%20Project%20summary.pptx)
 ---
 
 ## Problem Statement
@@ -59,6 +60,7 @@ The initial review of the dataset revealed:
 * Previous appointment and no-show history can be explored to determine whether previous behaviour is associated with future attendance.
 
 These observations provide the foundation for the next stage of analysis.
+
 
 ---
 
