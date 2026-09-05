@@ -1,6 +1,6 @@
 # 🏥 HealthConnect Clinic: Appointment Attendance & No-Show Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project is part of my **HealthConnect Data Analytics Track** and focuses on analysing appointment attendance, cancellations, and no-show patterns.
 
@@ -14,7 +14,7 @@ The overall objective is to identify patterns and factors associated with missed
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 HealthConnect Clinic is experiencing a high level of missed appointments, which can affect appointment-slot utilisation, clinic operations, and patient access to care.
 
@@ -24,7 +24,7 @@ HealthConnect Clinic is experiencing a high level of missed appointments, which 
 
 ---
 
-# 📊 Dataset Overview
+#  Dataset Overview
 
 The HealthConnect Appointment Dataset contains:
 
@@ -50,7 +50,7 @@ The HealthConnect Appointment Dataset contains:
 
 ---
 
-# 🔎 Week 4: Initial Analysis
+#  Week 4: Initial Analysis
 
 The Week 4 analysis focused on understanding the HealthConnect business problem and preparing for exploratory analysis.
 
@@ -67,7 +67,7 @@ The Week 4 analysis focused on understanding the HealthConnect business problem 
 
 ---
 
-# 📈 Week 5: Data Preparation
+#  Week 5: Data Preparation
 
 During Week 5, the dataset was prepared for exploratory analysis.
 
@@ -96,7 +96,7 @@ The original dataset was not overwritten.
 
 ---
 
-# 📊 Week 5: Exploratory Data Analysis
+#  Week 5: Exploratory Data Analysis
 
 The exploratory analysis investigated patterns in appointment attendance and no-shows across:
 
@@ -147,7 +147,7 @@ This made booking lead time an important factor for further investigation and po
 
 ---
 
-# 📌 KPI Development
+# KPI Development
 
 Three core KPIs were calculated during Week 5.
 
@@ -173,7 +173,7 @@ Measures the proportion of appointments cancelled and helps distinguish planned 
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 An initial analytical dashboard was developed in **Power BI** to communicate the main appointment patterns and KPIs.
 
@@ -196,7 +196,7 @@ The dashboard provides an interactive view of appointment attendance and no-show
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 The Week 5 analysis produced the following key insights:
 
@@ -222,7 +222,7 @@ Booking lead time showed a notable relationship with attendance rate and emerged
 
 ---
 
-# 🤝 Cross-Track Collaboration
+#  Cross-Track Collaboration
 
 ## Data Analytics → Data Science
 
@@ -249,7 +249,7 @@ This demonstrated how Data Analytics findings can support feature selection and 
 
 ---
 
-# ⚠️ Assumptions, Limitations, Risks & Dependencies
+#  Assumptions, Limitations, Risks & Dependencies
 
 ## Assumptions
 
@@ -295,7 +295,7 @@ The analysis depends on:
 
 ---
 
-# 💼 Business Recommendations
+#  Business Recommendations
 
 Based on the Week 5 findings, HealthConnect should consider:
 
@@ -331,7 +331,7 @@ to evaluate whether interventions lead to improvements over time.
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -346,7 +346,7 @@ to evaluate whether interventions lead to improvements over time.
 
 ---
 
-# 🔄 Analytical Workflow
+#  Analytical Workflow
 
 The project followed the workflow:
 
@@ -375,7 +375,7 @@ The project followed the workflow:
 
 ---
 
-# 📌 Project Status
+#  Project Status
 
 **Current Stage:** Week 5 – Exploratory Analysis, KPI Development & Business Insights
 
@@ -403,7 +403,7 @@ The project followed the workflow:
 
 ---
 
-# 📁 Project Documentation
+#  Project Documentation
 
 ### Week 4
 
@@ -418,7 +418,7 @@ The project followed the workflow:
 
 ---
 
-# 💡 Key Takeaway
+#  Key Takeaway
 
 > **The Week 5 analysis showed that missed appointments are a major operational issue, while booking lead time, reminder patterns, and previous no-show history provide important areas for further investigation.**
 
