@@ -412,9 +412,9 @@ The project followed the workflow:
 [Week 4 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%204%20Project%20summary.pptx)
 
 ### Week 5
-![Week 5 Project Summary]( https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%205%20Project%20summary.pptx)
-![Week 5 Analytical Dashboard]( https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/HealthConnect%20Wk5.png)
-[Week 5 Track-Specific Response]( https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20week%205%20Track%20Response.docx)
+![Week 5 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%205%20Project%20summary.pptx)
+![Week 5 Analytical Dashboard](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/HealthConnect%20Week%205.png)
+[Week 5 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20week%205%20Track%20Response.docx)
 
 ---
 
