@@ -1,9 +1,6 @@
-Absolutely. Here is a **clean GitHub README template** for your HealthConnect project that you can reuse and update as the internship progresses. It keeps the structure professional without making the README unnecessarily long.
+#  HealthConnect Clinic: Appointment Attendance & No-Show Analysis
 
-````markdown
-# 🏥 HealthConnect Clinic: Appointment Attendance & No-Show Analysis
-
-## 📌 Project Overview
+## Project Overview
 
 This project is part of the **HealthConnect Data Analytics Track** within the **AnalystLab Africa Experience Lab Internship Programme**.
 
@@ -21,7 +18,7 @@ The project focuses on analysing appointment attendance, cancellations, and no-s
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 HealthConnect Clinic is experiencing a high level of missed appointments, which may affect appointment-slot utilisation, clinic operations, and patient access to care.
 
@@ -31,7 +28,7 @@ HealthConnect Clinic is experiencing a high level of missed appointments, which 
 
 ---
 
-# 📊 Dataset Overview
+#  Dataset Overview
 
 The HealthConnect Appointment Dataset contains:
 
@@ -58,7 +55,7 @@ The HealthConnect Appointment Dataset contains:
 
 ---
 
-# 🔎 Week 4 — Initial Analysis
+#  Week 4 — Initial Analysis
 
 ### Focus
 
@@ -84,7 +81,7 @@ The HealthConnect Appointment Dataset contains:
 
 ---
 
-# 📈 Week 5 — Exploratory Analysis & KPI Development
+#  Week 5 — Exploratory Analysis & KPI Development
 
 ### Focus
 
@@ -141,7 +138,7 @@ Reviewed:
 
 ---
 
-# 🚀 Week 6 — Advanced Analysis, Integration & Validation
+#  Week 6 — Advanced Analysis, Integration & Validation
 
 ### Focus
 
@@ -159,7 +156,7 @@ Week 6 built on the Week 5 analysis by moving from initial exploration to **adva
 
 ---
 
-## 🔬 Advanced Analysis
+##  Advanced Analysis
 
 ### Previous No-Show History
 
@@ -194,7 +191,7 @@ This made booking lead time an important candidate feature for further investiga
 
 ---
 
-# 📌 KPI Validation
+#  KPI Validation
 
 The Week 5 KPIs were reviewed during Week 6.
 
@@ -206,7 +203,7 @@ The Week 5 KPIs were reviewed during Week 6.
 
 ---
 
-# 📊 Dashboard Improvement
+#  Dashboard Improvement
 
 The Power BI dashboard was improved to provide greater decision-support value.
 
@@ -230,7 +227,7 @@ The improved dashboard aims to answer:
 
 ---
 
-# 🤝 Cross-Track Integration
+#  Cross-Track Integration
 
 ## Data Analytics → Data Science
 
@@ -283,7 +280,7 @@ This connected:
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 ### 1. No-shows remain a major operational issue
 
@@ -307,7 +304,7 @@ Age group and appointment day did not show sufficiently meaningful differences t
 
 ---
 
-# 💼 Recommendations
+#  Recommendations
 
 Based on the analysis, HealthConnect should consider:
 
@@ -321,7 +318,7 @@ Based on the analysis, HealthConnect should consider:
 
 ---
 
-# ⚠️ Assumptions & Limitations
+#  Assumptions & Limitations
 
 ### Assumptions
 
@@ -349,7 +346,7 @@ Based on the analysis, HealthConnect should consider:
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -360,7 +357,7 @@ Based on the analysis, HealthConnect should consider:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Understand
@@ -386,7 +383,7 @@ Test & Refine
 
 ---
 
-# 📌 Project Status
+#  Project Status
 
 ### Completed
 
@@ -418,7 +415,7 @@ Test & Refine
 
 ---
 
-# 📁 Project Documentation
+#  Project Documentation
 
 ## Week 4
 
@@ -436,10 +433,9 @@ Test & Refine
 ---
 ## Week 6
 
-* [Week 6 Track-Specific Response](INSERT_LINK)
-* [Week 6 Project Summary](INSERT_LINK)
-* [Advanced Analytics & Decision Support Report](INSERT_LINK)
-* [Updated Power BI Dashboard](INSERT_LINK)
+* [Week 6 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%206%20Track%20response.docx)
+* [Week 6 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20B%20Week%206%20summary.pptx)
+* [Updated Power BI Dashboard]((https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Healthconnect%20week%206.pbix))
 * [Cross-Track Integration Evidence](INSERT_LINK)
 
 ---
