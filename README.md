@@ -426,17 +426,18 @@ Test & Refine
 [Week 4 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%204%20Project%20summary.pptx)
 
 ### Week 5
-![Week 5 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%205%20Project%20summary.pptx)
-![Week 5 Analytical Dashboard](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/HealthConnect%20Week%205.png)
-[Week 5 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20week%205%20Track%20Response.docx)
+* ![Week 5 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%205%20Project%20summary.pptx)
+* ![Week 5 Analytical Dashboard](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/HealthConnect%20Week%205.png)
+* ![Week 5 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20week%205%20Track%20Response.docx)
 
 ---
 ## Week 6
 
-* [Week 6 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%206%20Track%20response.docx)
-* [Week 6 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20B%20Week%206%20summary.pptx)
-* [Updated Power BI Dashboard]((https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Healthconnect%20week%206.pbix))
-* [Cross-Track Integration Evidence](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Progress%20from%20cross%20track%20integration.png)
+* ![Week 6 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%206%20Track%20response.docx)
+* ![Week 6 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20B%20Week%206%20summary.pptx)
+* ![Updated Power BI Dashboard]((https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Healthconnect%20week%206.pbix))
+* ![Dashboard](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Week%206.png)
+* ![Cross-Track Integration Evidence](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Progress%20from%20cross%20track%20integration.png)
 
 ---
 
