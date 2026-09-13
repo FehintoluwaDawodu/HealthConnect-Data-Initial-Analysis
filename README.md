@@ -436,11 +436,11 @@ Test & Refine
 * [Week 6 Track-Specific Response](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%206%20Track%20response.docx)
 * [Week 6 Project Summary](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20B%20Week%206%20summary.pptx)
 * [Updated Power BI Dashboard]((https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Healthconnect%20week%206.pbix))
-* [Cross-Track Integration Evidence](INSERT_LINK)
+* [Cross-Track Integration Evidence](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Progress%20from%20cross%20track%20integration.png)
 
 ---
 
-# 📈 Project Progression
+#  Project Progression
 
 | Week       | Focus                            | Key Output                                                                        |
 | ---------- | -------------------------------- | --------------------------------------------------------------------------------- |
@@ -452,7 +452,7 @@ Test & Refine
 
 ---
 
-# 💡 Key Takeaway
+#  Key Takeaway
 
 > **The HealthConnect project demonstrates how healthcare data can move from data-quality assessment and exploratory analysis to KPI development, advanced analysis, validation, predictive modelling integration, and evidence-based decision support.**
 
@@ -460,14 +460,14 @@ The Week 6 work strengthened the evidence around **previous no-show history, boo
 
 ---
 
-## 👤 About Me
+##  About Me
 
 **Dawodu Fehintoluwa Bukola**
 Health Data Analyst | Public Health & Healthcare Analytics
 
 **Skills:** Excel | Power BI | SQL | Python | Healthcare Analytics | Data Visualisation
 
-[LinkedIn](INSERT_LINK) • [GitHub](INSERT_LINK)
+
 
 ````
 
