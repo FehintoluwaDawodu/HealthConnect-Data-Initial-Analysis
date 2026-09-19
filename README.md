@@ -460,6 +460,291 @@ Test & Refine
 The Week 6 work strengthened the evidence around **previous no-show history, booking lead time, and reminder patterns**, while refining less meaningful findings and improving the dashboard for decision support.
 
 ---
+#  HealthConnect Clinic: Appointment Attendance & No-Show Analysis Week 7 Update
+
+## Project Overview
+
+This project is part of my **HealthConnect Data Analytics Track** and focuses on analysing appointment attendance, cancellations, and no-show patterns.
+
+The project progressed from **business problem definition and data-quality assessment in Week 4**, to **exploratory analysis and KPI development in Week 5**, and then to **analytical testing, KPI validation, dashboard refinement, and cross-track collaboration in Week 7**.
+---
+
+
+#  Week 7 — Analytical Testing & Validation
+
+Week 7 focused on testing whether the Week 5/6 findings remained supported and connecting the Data Analytics findings with Data Science modelling.
+
+### Week 7 Objectives
+
+* Validate core KPIs.
+* Retest important analytical findings.
+* Compare Power BI, Excel and SQL results.
+* Validate booking lead-time patterns.
+* Investigate previous no-show history.
+* Refine the Power BI dashboard.
+* Integrate relevant Data Science findings.
+
+---
+
+#  KPI Validation
+
+Power BI and Excel produced consistent results for the core KPIs:
+
+| KPI               |     Result |
+| ----------------- | ---------: |
+| Attendance Rate   | **46.28%** |
+| No-Show Rate      | **48.46%** |
+| Cancellation Rate |  **5.26%** |
+
+A difference was identified during the SQL cross-check and requires **denominator/query reconciliation** before the SQL result can be considered fully validated.
+
+### Validation Approach
+
+**Recheck → Reconcile → Document → Retest**
+
+---
+
+#  Previous No-Show Analysis
+
+Week 7 further examined the relationship between previous no-show history and subsequent no-show rates.
+
+| Previous No-Shows | No-Show Rate |
+| ----------------: | -----------: |
+|                 0 |        46.3% |
+|                 1 |        55.9% |
+|                 2 |        62.1% |
+|                 3 |        68.4% |
+|                 4 |        66.7% |
+|                 5 |        100% |
+
+### Observation
+
+> **No-show rate increased as previous no-show history increased.**
+
+This makes previous appointment behaviour an important variable for continued analysis and potential predictive modelling.
+
+---
+
+#  Booking Lead-Time Analysis
+
+Data Science requested validation of the underlying no-show rates for two booking lead-time groups.
+
+| Booking Lead Time | No-Show Rate |
+| ----------------- | -----------: |
+| **≤30 days**      |   **36.59%** |
+| **>30 days**      |   **60.31%** |
+
+### Finding
+
+Appointments booked more than 30 days ahead had a higher observed no-show rate than appointments booked within 30 days.
+
+This provided an underlying-data check for the pattern identified during the Data Science modelling work.
+
+> **No-show rate and model recall are different measures.** No-show rate describes the underlying appointment data, while recall measures how well a predictive model identifies no-shows.
+
+---
+
+#  Cross-Track Collaboration — Data Science
+
+The Data Analytics track collaborated with the **Data Science track** to compare descriptive findings with predictive modelling results.
+
+### Information Received
+
+The Data Science track reported:
+
+* **Previous no-show history:** 78% recall for patients with previous no-shows vs 58% without.
+* **Booking lead time:** 94% recall for appointments booked >30 days ahead vs 23% for ≤30 days.
+* **Diagnostic Tests:** 80% recall.
+* **Specialist Consultations:** 53% recall.
+* **Tuned Gradient Boosting:** AUC **0.72**, recall **67%**, F1 **67%**.
+
+### Information Provided
+
+Data Analytics provided the underlying booking lead-time no-show rates:
+
+* ≤30 days → **36.59%**
+* > 30 days → **60.31%**
+
+### Why the Collaboration Was Relevant
+
+The collaboration helped distinguish:
+
+**Descriptive analysis**
+→ What patterns exist in the appointment data?
+
+from
+
+**Predictive modelling**
+→ How well can a model identify future no-shows?
+
+### Integration Outcome
+
+The booking lead-time analysis provided evidence from the underlying data that could be compared with the Data Science model's performance across the same segments.
+
+---
+
+#  Data Analytics vs Data Science
+
+| Data Analytics                    | Data Science                                                      |
+| --------------------------------- | ----------------------------------------------------------------- |
+| Identified descriptive patterns   | Tested predictive performance                                     |
+| Analysed booking lead time        | Compared model recall across lead-time groups                     |
+| Examined previous no-show history | Tested predictive performance among patients with/without history |
+| Analysed appointment types        | Compared recall across appointment types                          |
+| Validated underlying rates        | Evaluated model performance                                       |
+
+> **Data Analytics identified important patterns; Data Science tested their predictive usefulness.**
+
+---
+
+#  Power BI Dashboard
+
+The Power BI dashboard was refined to provide a clearer view of:
+
+* Appointment KPIs
+* Appointment outcomes
+* Previous no-show history
+* Booking lead time
+* Reminder patterns
+* Appointment type
+* Attendance and no-show patterns
+
+The dashboard supports interactive exploration of the factors identified during the analysis.
+
+---
+
+#  Key Week 7 Insights
+
+### 1. Previous No-Show History
+
+No-show rates increased as previous no-show history increased.
+
+### 2. Booking Lead Time
+
+Appointments booked **>30 days ahead had a 60.31% no-show rate**, compared with **36.59% for ≤30 days**.
+
+### 3. Data Science Validation
+
+The Data Science model also showed substantial differences in recall across booking lead-time groups.
+
+### 4. Model Performance Varies by Appointment Group
+
+Model recall differed between Diagnostic Tests and Specialist Consultations.
+
+### 5. KPI Validation Requires Consistency Across Tools
+
+Power BI and Excel were aligned, while the SQL result requires further reconciliation.
+
+---
+
+#  Assumptions, Limitations & Risks
+
+### Limitations
+
+* The dataset is fictional.
+* Some variables contain missing values.
+* Reasons for missed appointments are not fully captured.
+* Available variables may not represent every factor influencing attendance.
+* Some findings require additional validation.
+* Associations should not be interpreted as causal relationships.
+
+### Technical Risk
+
+Different SQL and Power BI/Excel calculations may produce different results if denominators or filtering logic are inconsistent.
+
+### Response
+
+**Recheck → Reconcile → Document → Retest**
+
+---
+
+#  Business Implications
+
+The findings suggest areas HealthConnect could investigate further:
+
+* Monitor patients with previous no-show history.
+* Investigate appointment scheduling patterns and booking lead time.
+* Review reminder strategies.
+* Examine appointment-type differences.
+* Improve data completeness.
+* Use validated KPIs to monitor appointment performance.
+
+Any intervention should be evaluated carefully rather than assuming that an observed association represents a causal effect.
+
+---
+
+#  Tools & Technologies
+
+| Tool                      | Purpose                                                           |
+| ------------------------- | ----------------------------------------------------------------- |
+| **Excel**                 | Data inspection, validation and KPI cross-checking                |
+| **SQL / MySQL Workbench** | Data querying and analytical validation                           |
+| **Power BI**              | Data modelling, DAX, KPI development, dashboard and visualisation |
+
+### Resources
+
+* HealthConnect Appointment Dataset
+* HealthConnect Data Dictionary
+* Data Science model outputs
+* Power BI analytical dashboard
+
+---
+
+#  Project Progression
+
+### Week 4
+
+**Understand → Assess → Plan**
+
+Business problem, data quality, business questions, KPIs and analytical approach.
+
+### Week 5
+
+**Prepare → Explore → Measure → Visualise**
+
+Data preparation, EDA, KPI development, dashboard and business insights.
+
+### Week 7
+
+**Test → Validate → Collaborate → Refine**
+
+KPI validation, deeper analysis, SQL cross-checking, Data Science collaboration and dashboard refinement.
+
+---
+
+#  Current Project Status
+
+### Completed
+
+* [x] Business problem definition
+* [x] Dataset and data-quality assessment
+* [x] Data preparation
+* [x] Exploratory data analysis
+* [x] KPI development
+* [x] Power BI dashboard
+* [x] Previous no-show analysis
+* [x] Booking lead-time analysis
+* [x] KPI cross-checking
+* [x] Data Science collaboration
+* [x] Cross-track validation
+* [x] Limitations and risks review
+
+### Next Steps
+
+* [ ] Reconcile SQL and Power BI/Excel KPI calculations
+* [ ] Continue testing booking lead time
+* [ ] Further investigate previous no-show history
+* [ ] Refine dashboard based on validated findings
+* [ ] Integrate relevant predictive-model outputs
+* [ ] Document final analytical conclusions
+
+---
+
+#  Key Takeaway
+
+> **Week 7 moved the HealthConnect project from identifying patterns to testing, validating and integrating findings across descriptive and predictive analysis.**
+
+The analysis shows that **previous no-show history and booking lead time are important areas for further investigation**, while collaboration with Data Science helped connect descriptive healthcare analytics with predictive modelling.
 
 ##  About Me
 
@@ -468,9 +753,8 @@ Health Data Analyst | Public Health & Healthcare Analytics
 
 **Skills:** Excel | Power BI | SQL | Python | Healthcare Analytics | Data Visualisation
 
+```
 
-
-````
 
 
 
