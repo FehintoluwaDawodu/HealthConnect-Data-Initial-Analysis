@@ -739,6 +739,13 @@ KPI validation, deeper analysis, SQL cross-checking, Data Science collaboration 
 * [ ] Document final analytical conclusions
 
 ---
+## Week 7
+
+* ![Week 7 Track-Specific](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Track%20Specific%20Response-1.docx)
+* ![Week 7 Project](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%207%20Summary.pptx)
+* ![Dashboard](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Week%207.png)
+
+---
 
 #  Key Takeaway
 
