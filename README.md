@@ -747,18 +747,148 @@ KPI validation, deeper analysis, SQL cross-checking, Data Science collaboration 
 
 ---
 
-#  Key Takeaway
+### Week 7 Progress
+
+* [x] Data Science collaboration
+* [x] Cross-track validation
+* [x] Booking lead-time analysis
+* [x] Previous no-show history analysis
+* [x] Reminder pattern analysis
+* [x] Predictive-model findings integrated
+* [x] Limitations and risks reviewed
+
+### Key Week 7 Findings
+
+* Previous no-show history showed a clear relationship with future no-show patterns.
+* Booking lead time showed a notable difference in no-show rates.
+* Appointments booked **more than 30 days ahead had a 60.31% no-show rate**, compared with **36.59% for appointments booked within 30 days**.
+* Reminder status also showed different no-show patterns.
+* Data Science modelling provided additional evidence that booking lead time and previous no-show history were useful predictive signals.
+
+---
+### Key Takeaway
 
 > **Week 7 moved the HealthConnect project from identifying patterns to testing, validating and integrating findings across descriptive and predictive analysis.**
 
 The analysis shows that **previous no-show history and booking lead time are important areas for further investigation**, while collaboration with Data Science helped connect descriptive healthcare analytics with predictive modelling.
+#u/HealthConnect-Data-Initial-Analysis/blob/main/Week%207.png)
+---
 
-##  About Me
+## Week 8 — Final Project
 
-**Dawodu Fehintoluwa Bukola**
+Week 8 brought together the findings from the previous stages into the final HealthConnect Data Analytics project.
+
+The focus was on:
+
+* Finalising the analytical dashboard.
+* Integrating validated findings from the Data Science track.
+* Summarising the major appointment attendance and no-show patterns.
+* Translating analytical findings into business recommendations.
+* Reviewing limitations, risks and dependencies.
+* Presenting the overall project journey from data preparation to decision support.
+---
+### Final Project Findings
+
+The analysis of **5,000 appointment records** showed:
+
+| Appointment Outcome | Number | Rate |
+|---|---:|---:|
+| Attended | 2,314 | 46.28% |
+| No-Show | 2,423 | 48.46% |
+| Cancelled | 263 | 5.26% |
+---
+Key areas identified for further investigation included:
+
+* Previous no-show history.
+* Booking lead time.
+* Reminder status and channel.
+* Appointment type.
+* Appointment attendance patterns.
+---
+### Data Science Collaboration
+
+The Data Analytics findings were compared with predictive modelling results from the Data Science track.
+
+The Data Science analysis reported:
+
+* **78% recall** for no-shows among patients with previous no-shows, compared with **58%** among those without previous no-show history.
+* **94% recall** for appointments booked more than 30 days ahead, compared with **23%** for appointments booked within 30 days.
+* Tuned Gradient Boosting achieved approximately **0.72 ROC-AUC, 67% recall and 67% F1**.
+
+This collaboration helped connect descriptive analytics with predictive modelling and provided additional validation for booking lead time and previous no-show history as important areas for investigation.
+---
+### Final Dashboard
+
+The final Power BI dashboard brings together:
+
+* Appointment outcome KPIs.
+* Attendance and no-show patterns.
+* Booking lead-time analysis.
+* Previous no-show history.
+* Reminder analysis.
+* Appointment characteristics.
+* Data Science model findings.
+* Business insights and recommendations.
+---
+### Final Recommendations
+
+Based on the analysis, HealthConnect should:
+
+* Continue monitoring the no-show rate as a core operational KPI.
+* Investigate booking lead-time patterns and their relationship with attendance.
+* Further examine previous no-show history as a potential risk indicator.
+* Review reminder coverage and reminder channels.
+* Improve completeness of relevant appointment data.
+* Continue validating predictive-model performance before operational deployment.
+---
+### Limitations
+
+* The dataset is fictional and may not fully represent real-world patient behaviour.
+* Some variables contained missing values.
+* Mean imputation was used for selected missing values.
+* The dataset does not capture every factor that may influence appointment attendance.
+* Observed associations should not be interpreted as evidence of causation.
+* Predictive-model results require continued validation before being used operationally.
+---
+### Week 8 Completion
+
+* [x] Final data preparation and quality review
+* [x] Exploratory analysis
+* [x] KPI development
+* [x] Power BI dashboard
+* [x] Business insights
+* [x] Data Science collaboration
+* [x] Cross-track validation
+* [x] Predictive-model findings reviewed
+* [x] Business recommendations
+* [x] Limitations and risks review
+* [x] Final project presentation
+---
+### Week 8 Project Files
+
+* [ ] Week 8 Track-Specific Response
+* [ ] Week 8 Final Project Summary
+* [ ] Final Power BI Dashboard
+* [ ] Final Presentation
+
+---
+
+# Key Takeaway
+
+> **The HealthConnect project progressed from understanding the appointment data to identifying patterns, developing KPIs, building a dashboard, and collaborating with Data Science to connect descriptive and predictive analytics.**
+
+The analysis identified **previous no-show history, booking lead time and reminder patterns** as important areas for further investigation.
+
+The project demonstrates how healthcare data can be transformed into **meaningful insights and decision-support outputs**, while recognising the importance of data quality, validation and responsible interpretation.
+
+---
+## About Me
+
+**Dawodu Fehintoluwa Bukola**  
 Health Data Analyst | Public Health & Healthcare Analytics
 
 **Skills:** Excel | Power BI | SQL | Python | Healthcare Analytics | Data Visualisation
+
 
 ```
 
