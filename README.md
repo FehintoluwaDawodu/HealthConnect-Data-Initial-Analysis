@@ -866,10 +866,10 @@ Based on the analysis, HealthConnect should:
 ---
 ### Week 8 Project Files
 
-* [ ] Week 8 Track-Specific Response
-* [ ] Week 8 Final Project Summary
-* [ ] Final Power BI Dashboard
-* [ ] Final Presentation
+* [ https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/DAWODU%20FEHINTOLUWA%20WEEK%208%20TRACK%20RESPONSE.docx] Week 8 Track-Specific Response
+* [ https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20week%208%20Summary-1.pptx] Week 8 Final Project Summary
+* [ https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis/blob/main/Dawodu%20Fehintoluwa%20Week%208%20PDF.pdf] Final Power BI Dashboard
+
 
 ---
 
